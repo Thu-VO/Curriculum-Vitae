@@ -12,8 +12,7 @@
 
 
 #### 2015 : Développeur commercial
-Entreprise de production des boissons énergisantes
-[Hello Nest](https://hellonests.com/english/home/)
+[Hello Nest](https://hellonests.com/english/home/) _Entreprise de production des boissons énergisantes_
 
 
 #### 2013 : Assistante chargée de l’organisation de conférence clientèle

@@ -35,3 +35,12 @@ Formation de 5 mois (35 heures par semaine) + 3 mois de stage
 _Sujet de recherche : Télétravail, MOOCs (cours en ligne ouverts à tous)_
 
 **2008-2013 : Licence en Sciences de l'information et de la communication**
+
+
+## EXPERIENCE DE BENEVOLAT
+
+**2017-Aujourd’hui : Chef de projet de numérisation de livres anciens vietnamiens** [TVE-4U](http://tve-4u.org/) _Forum de bibliothèque numérique vietnamienne à but non lucratif_
+
+**2018-2019 : Enseignante de langue Vietnamienne** [UGVF](https://www.ugvf.org/) _Union générale des vietnamiens de France_
+
+**2017 : Secrétaire de documentation et d’appui au suivi des donateurs** [Planète enfants et Développement](http://planete-eed.org) _Association à but non lucratif_

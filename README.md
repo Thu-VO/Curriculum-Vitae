@@ -4,30 +4,24 @@
 
 ## EXPERIENCES
 
-#### 2019 : Gestionnaire de rayon [RELAY FRANCE](https://www.relay.com/)
+**2019 : Gestionnaire de rayon** [RELAY FRANCE](https://www.relay.com/)
 
+**2016 : Chargée de stratégie clientèle** - [Voyage Pacifique](http://www.asiepacific.com/)
 
-#### 2016 : Chargée de stratégie clientèle - [Voyage Pacifique](http://www.asiepacific.com/)
+**2015 : Développeur commercial** - [Hello Nest](https://hellonests.com/english/home/) _Entreprise de production des boissons énergisantes_
 
+**2013 : Assistante chargée de l’organisation de conférence clientèle** - [Hanvico](https://hanvico.com.vn/) _Entreprise de co-production coréenne-vietnamienne de produits textiles de déco-intérieure_
 
-#### 2015 : Développeur commercial - [Hello Nest](https://hellonests.com/english/home/) _Entreprise de production des boissons énergisantes_
+**2012 : Assistante chargée de Communication interne et de Publicité** - [Vietnam Economic News](http://ven.vn/) _Agence de presse du Ministère du Commerce et de l’industrie du Vietnam_
 
+**2011 : Chargée d’événementiel** - [_ABVietFrance_](https://www.abvietfrance.org/) _Association du Business des Vietnamiens en France_
 
-#### 2013 : Assistante chargée de l’organisation de conférence clientèle - [Hanvico](https://hanvico.com.vn/) _Entreprise de co-production coréenne-vietnamienne de produits textiles de déco-intérieure_
-
-
-#### 2012 : Assistante chargée de Communication interne et de Publicité - [Vietnam Economic News](http://ven.vn/) _Agence de presse du Ministère du Commerce et de l’industrie du Vietnam_
-
-
-#### 2011 : Chargée d’événementiel - [_ABVietFrance_](https://www.abvietfrance.org/) _Association du Business des Vietnamiens en France_
-
-
-#### 2008-2014 : Equipière polyvalente [McDonald's](https://www.restaurants.mcdonalds.fr/mcdonalds-paris-crimee)
+**2008-2014 : Equipière polyvalente** - [McDonald's](https://www.restaurants.mcdonalds.fr/mcdonalds-paris-crimee)
 
 
 ## FORMATION
 
-#### Data Analyst (2020)
+**2020 : Data Analyst**
 Formation de 5 mois (35 heures par semaine) + 3 mois de stage
 - **Statistiques** : descriptives, exploratoires, inférentielles …
 - **Programmation** : Python (Numpy, Pandas), R, Git, Github
@@ -37,9 +31,7 @@ Formation de 5 mois (35 heures par semaine) + 3 mois de stage
 - **Aide à la décision** : Dataviz (Matpotlib, Seaborn, Bokeh), Dashboard, KPI, Logiciels BI & analytics (Excel, Tableau, Power BI, Qlickview, ETL)
 - **Culture Big Data / Intelligence Artificielle (AI)** : Machine learning, Deep learning, Privacy (RGPD)
 
-
-#### Master de Recherche et Expertise dans les industries culturelles et les médias (2013-2014)
+**2013-2014 : Master de Recherche et Expertise dans les industries culturelles et les médias**
 _Sujet de recherche : Télétravail, MOOCs (cours en ligne ouverts à tous)_
 
-
-#### Licence en Sciences de l'information et de la communication (2008-2013)
+**2008-2013 : Licence en Sciences de l'information et de la communication**

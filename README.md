@@ -4,26 +4,27 @@
 
 ## EXPERIENCES
 
-###### Gestionnaire de rayon (2019)
+###### 2019 : Gestionnaire de rayon
 _RELAY FRANCE_ Temps plein
 
-###### Chargée de stratégie clientèle (2016)
+###### 2016 : Chargée de stratégie clientèle
 _Voyage Pacifique_
 
-###### Développeur commercial (2015)
+###### 2015 : Développeur commercial
 _Hello Nest_
 
-###### Assistante chargée de l’organisation de conférence clientèle (2013)
+###### 2013 : Assistante chargée de l’organisation de conférence clientèle
 _Hanvico_ Viêt Nam
 
-###### Assistante chargée de Communication interne et de Publicité (2012)
-_Vietnam Economic News_ Viêt Nam
+#### 2012 : Assistante chargée de Communication interne et de Publicité
+[Vietnam Economic News](http://ven.vn/)
 
-###### Chargée d’événementiel
+#### 2011 : Chargée d’événementiel
+_Association du Business des Vietnamiens en France_
 [_ABVietFrance_](https://www.abvietfrance.org/)
 
-###### Equipière polyvalente (2008-2014)
-_McDonald's_
+#### 2008-2014 : Equipière polyvalente 
+[McDonald's](https://www.restaurants.mcdonalds.fr/mcdonalds-paris-crimee)
 
 
 ## FORMATION

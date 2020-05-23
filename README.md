@@ -28,7 +28,7 @@ _McDonald's_
 
 ## FORMATION
 
-###### Data Analyst (2020)
+#### Data Analyst (2020)
 Formation de 5 mois (35 heures par semaine) + 3 mois de stage
 - **Statistiques** : descriptives, exploratoires, inférentielles …
 - **Programmation** : Python (Numpy, Pandas), R, Git, Github
@@ -39,7 +39,7 @@ Formation de 5 mois (35 heures par semaine) + 3 mois de stage
 - **Culture Big Data / Intelligence Artificielle (AI)** : Machine learning, Deep learning, Privacy (RGPD)
 
 
-###### Master de Recherche et Expertise dans les industries culturelles et les médias (2013-2014)
+#### Master de Recherche et Expertise dans les industries culturelles et les médias (2013-2014)
 _Sujet de recherche : Télétravail, MOOCs (cours en ligne ouverts à tous)_
 
-###### Licence en Sciences de l'information et de la communication (2008-2013)
+#### Licence en Sciences de l'information et de la communication (2008-2013)
